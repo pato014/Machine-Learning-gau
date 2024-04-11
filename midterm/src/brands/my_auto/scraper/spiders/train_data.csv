@@ -1,0 +1,41 @@
+Manufacturer,Model,Year,Category,Mileage,Fuel type,Engine Volume,Cylinders,Gear box type,Drive wheels,Doors,Airbags,Wheel,Interior material,Technical inspection,Catalyst,Price
+Audi,A4,2019,Sedan,34100 km,Petrol,2.0 turbo,4,Tiptronic,4x4,4/5,6,Left,Leather,Yes,Yes,37600
+Audi,A8,2016,Sedan,106000 km,Petrol,3.0 turbo,6,Automatic,4x4,4/5,12,Left,Leather,Yes,Yes,46800
+Audi,A4,2016,Sedan,146000 km,Petrol,2.0,4,Tiptronic,4x4,4/5,10,Left,Leather,Yes,Yes,42800
+Audi,A4,2004,Sedan,150000 km,CNG,1.8 turbo,4,Tiptronic,4x4,4/5,8,Left,Leather,Yes,Yes,4810
+Audi,S6,2012,Sedan,95000 km,Petrol,4.0,8,Tiptronic,4x4,4/5,9,Left,Leather,Yes,Yes,50800
+Audi,Q5,2013,Jeep,140000 km,Petrol,2.0 turbo,4,Tiptronic,4x4,4/5,8,Left,Leather,Yes,Yes,29100
+Audi,A6,2019,Sedan,55000 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,112300
+Audi,S7,2015,Sedan,120000 km,Petrol,4.0 turbo,8,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,69500
+Audi,Q5,2014,Jeep,154000 km,Petrol,2.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,31300
+Audi,Q8,2022,Jeep,42000 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,197800
+BMW,328,2012,Sedan,184000 km,Petrol,2.0,4,Automatic,Rear,4/5,9,Left,Leather,Yes,No,9000
+BMW,X5,2021,Jeep,52800 km,Petrol,3.0 turbo,6,Automatic,4x4,4/5,12,Left,Leather,Yes,Yes,52000
+BMW,X6,2010,Jeep,209600 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,10,Left,Leather,Yes,Yes,11700
+BMW,X5,2014,Jeep,196362 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,17000
+BMW,X5,2019,Jeep,0 km,Petrol,4.4,10,Tiptronic,4x4,4/5,9,Left,Leather,Yes,Yes,40000
+BMW,X5,2014,Jeep,130000 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,19500
+BMW,428,2014,Sedan,14000 km,Petrol,2.0,4,Automatic,Front,>5,12,Left,Leather,Yes,Yes,11900
+BMW,X5,2015,Jeep,240000 km,Petrol,3.0,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,22000
+BMW,328,2012,Sedan,240000 km,Petrol,2.0 turbo,1,Tiptronic,Rear,4/5,9,Left,Leather,Yes,Yes,7000
+BMW,520,2014,Sedan,180620 km,Petrol,2.0,4,Automatic,Rear,4/5,9,Left,Fabric,Yes,Yes,11000
+Mercedes-Benz,GLB 35 AMG,2021,Jeep,85000 km,Petrol,2.0 turbo,4,Tiptronic,4x4,4/5,8,Left,Alcantara,Yes,Yes,37500
+Mercedes-Benz,GLE 63 AMG,2021,Jeep,51000 km,Petrol,4.0,8,Tiptronic,4x4,4/5,9,Left,Leather,Yes,Yes,145000
+Mercedes-Benz,GLE 43 AMG,2018,Jeep,27400 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,42500
+Mercedes-Benz,G 550,2010,Jeep,187200 km,Petrol,5.5,8,Tiptronic,4x4,>5,12,Left,Leather,Yes,,39500
+Mercedes-Benz,GLE 53,2022,Jeep,24000 km,Petrol,3.0 turbo,6,Automatic,4x4,4/5,12,Left,Leather,Yes,Yes,85000
+Mercedes-Benz,E 200,2015,Sedan,218468 km,Diesel,2.1,4,Automatic,Rear,4/5,8,Left,Leather,Yes,Yes,10000
+Mercedes-Benz,C 300,2017,Sedan,86000 km,Petrol,2.0 turbo,4,Tiptronic,Rear,4/5,12,Left,Leather,Yes,Yes,14400
+Mercedes-Benz,S 350,2014,Sedan,230000 km,Diesel,3.0 turbo,6,Automatic,Rear,4/5,12,Left,Leather,Yes,Yes,22000
+Mercedes-Benz,S 550,2014,Sedan,139000 km,Petrol,4.7,8,Tiptronic,4x4,4/5,9,Left,Leather,Yes,Yes,34000
+Mercedes-Benz,E 350,2014,Sedan,150400 km,Petrol,3.5,6,Tiptronic,Rear,4/5,9,Left,Leather,Yes,Yes,10700
+Toyota,Prius,2007,Hatchback,275200 km,Hybrid,1.5,4,Automatic,Front,4/5,6,Left,Leather,Yes,Yes,4400
+Toyota,Camry,2019,Sedan,87360 km,Petrol,2.5,4,Tiptronic,Front,4/5,9,Left,Combined,Yes,Yes,15800
+Toyota,Camry,2015,Sedan,150000 km,Petrol,2.5,4,Automatic,Front,4/5,9,Left,Fabric,Yes,Yes,8900
+Toyota,Aqua,2015,Hatchback,96000 km,Hybrid,1.5,4,Automatic,Front,4/5,4,Right,Fabric,Yes,Yes,7100
+Toyota,4 Runner,2016,Jeep,151000 km,Petrol,4.0,6,Tiptronic,4x4,4/5,12,Left,Fabric,Yes,Yes,26000
+Toyota,Camry,2014,Sedan,259200 km,Hybrid,2.5,4,Automatic,Front,4/5,9,Left,Fabric,Yes,,8350
+Toyota,Prius,2022,Sedan,25000 km,Hybrid,1.8,4,Automatic,Front,4/5,9,Left,Fabric,Yes,,16800
+Toyota,RAV 4,2018,Jeep,68000 km,Petrol,2.5,4,Tiptronic,4x4,4/5,8,Left,Fabric,Yes,Yes,14800
+Toyota,Camry,2014,Sedan,145600 km,Petrol,2.5,4,Automatic,Front,4/5,9,Left,Fabric,Yes,Yes,9800
+Toyota,Corolla,2020,Sedan,126400 km,Hybrid,1.8,4,Tiptronic,Front,4/5,10,Left,Fabric,Yes,Yes,15500

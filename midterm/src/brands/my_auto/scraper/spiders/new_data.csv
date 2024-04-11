@@ -1,0 +1,31 @@
+Manufacturer,Model,Year,Category,Mileage,Fuel type,Engine Volume,Cylinders,Gear box type,Drive wheels,Doors,Airbags,Wheel,Interior material,Technical inspection,Catalyst,Price
+Mercedes-Benz,GLB 35 AMG,2021,Jeep,85000 km,Petrol,2.0 turbo,4,Tiptronic,4x4,4/5,8,Left,Alcantara,Yes,Yes,37500
+Mercedes-Benz,GLE 63 AMG,2021,Jeep,51000 km,Petrol,4.0,8,Tiptronic,4x4,4/5,9,Left,Leather,Yes,Yes,145000
+Mercedes-Benz,GLE 43 AMG,2018,Jeep,27400 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,42500
+Mercedes-Benz,G 550,2010,Jeep,187200 km,Petrol,5.5,8,Tiptronic,4x4,>5,12,Left,Leather,Yes,,39500
+Mercedes-Benz,GLE 53,2022,Jeep,24000 km,Petrol,3.0 turbo,6,Automatic,4x4,4/5,12,Left,Leather,Yes,Yes,85000
+Mercedes-Benz,E 200,2015,Sedan,218468 km,Diesel,2.1,4,Automatic,Rear,4/5,8,Left,Leather,Yes,Yes,10000
+Mercedes-Benz,C 300,2017,Sedan,86000 km,Petrol,2.0 turbo,4,Tiptronic,Rear,4/5,12,Left,Leather,Yes,Yes,14400
+Mercedes-Benz,S 350,2014,Sedan,230000 km,Diesel,3.0 turbo,6,Automatic,Rear,4/5,12,Left,Leather,Yes,Yes,22000
+Mercedes-Benz,S 550,2014,Sedan,139000 km,Petrol,4.7,8,Tiptronic,4x4,4/5,9,Left,Leather,Yes,Yes,34000
+Mercedes-Benz,E 350,2014,Sedan,150400 km,Petrol,3.5,6,Tiptronic,Rear,4/5,9,Left,Leather,Yes,Yes,10700
+Mercedes-Benz,GLA 250,2017,Jeep,88000 km,Petrol,2.0 turbo,4,Tiptronic,4x4,4/5,10,Left,Leather,Yes,Yes,15500
+Mercedes-Benz,E 350,2015,Sedan,65659 km,Petrol,3.5,6,Tiptronic,4x4,4/5,12,Left,Leather,No,Yes,11500
+Mercedes-Benz,E 220,2015,Sedan,131000 km,Diesel,2.1,6,Tiptronic,Rear,4/5,9,Left,Leather,Yes,Yes,15700
+Mercedes-Benz,CLS 550,2013,Sedan,2000 km,Petrol,4.6 turbo,8,Tiptronic,Rear,4/5,12,Left,Leather,Yes,Yes,
+Mercedes-Benz,E 55,2019,Sedan,49600 km,Hybrid,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Alcantara,Yes,Yes,41500
+Mercedes-Benz,S 550,2012,Sedan,212000 km,Petrol,4.7 turbo,8,Tiptronic,Rear,4/5,10,Left,Leather,Yes,Yes,13700
+Mercedes-Benz,V 220,2023,Minivan,0 km,Diesel,2.2 turbo,4,Tiptronic,Rear,4/5,12,Left,Leather,Yes,Yes,60900
+Mercedes-Benz,E 220,2015,Sedan,235000 km,Diesel,2.2 turbo,6,Tiptronic,Rear,4/5,12,Left,Leather,Yes,Yes,15000
+Mercedes-Benz,GLC 43 AMG,2017,Jeep,63000 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,No,28900
+Mercedes-Benz,C 450 AMG,2016,Sedan,90000 km,Petrol,3.0,6,Tiptronic,4x4,4/5,9,Left,Leather,Yes,Yes,22000
+Mercedes-Benz,GLA 250,2016,Hatchback,153000 km,Petrol,2.0 turbo,4,Automatic,Front,4/5,12,Left,Leather,Yes,Yes,12500
+Mercedes-Benz,GLE 450 AMG,2016,Coupe,192000 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,8,Left,Leather,Yes,Yes,38000
+Mercedes-Benz,G 550,2015,Jeep,93337 km,Petrol,5.5 turbo,8,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,52000
+Mercedes-Benz,GLA 250,2014,Jeep,100400 km,Petrol,2.0 turbo,6,Tiptronic,4x4,4/5,12,Left,Leather,Yes,Yes,
+Mercedes-Benz,CLS 450,2015,Sedan,105000 km,Petrol,3.0 turbo,6,Tiptronic,Rear,4/5,8,Left,Leather,No,Yes,18500
+Mercedes-Benz,CLK 350,2006,Coupe,103000 km,Petrol,3.5,6,Tiptronic,Rear,2/3,8,Left,Leather,Yes,Yes,5350
+Mercedes-Benz,S 600,1996,Sedan,106000 km,Petrol,6.0,12,Automatic,Rear,4/5,9,Left,Leather,Yes,Yes,21800
+Mercedes-Benz,GLC 300 Coupe,2017,Jeep,98394 km,Petrol,2.0 turbo,8,Tiptronic,4x4,4/5,10,Left,Leather,Yes,Yes,32000
+Mercedes-Benz,GLE 43 AMG,2017,Jeep,115000 km,Petrol,3.0 turbo,6,Tiptronic,4x4,4/5,11,Left,Leather,Yes,Yes,28500
+Mercedes-Benz,C 250,2013,Coupe,232000 km,Petrol,1.8 turbo,4,Tiptronic,Rear,2/3,10,Left,Leather,Yes,Yes,6800
