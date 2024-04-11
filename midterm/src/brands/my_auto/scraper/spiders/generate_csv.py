@@ -2,7 +2,6 @@ import json
 import csv
 
 
-# Function to convert JSONL to CSV
 def jsonl_to_csv(jsonl_file, csv_file):
     with open(jsonl_file, 'r') as infile, open(csv_file, 'w', newline='') as outfile:
         writer = csv.DictWriter(outfile, fieldnames=[
@@ -17,7 +16,6 @@ def jsonl_to_csv(jsonl_file, csv_file):
             writer.writerow(data)
 
 
-# Example usage
 jsonl_file_1 = "data_for_model_train.jsonl"
 csv_file_1 = "train_data.csv"
 jsonl_file_2 = "full_data.jsonl"
