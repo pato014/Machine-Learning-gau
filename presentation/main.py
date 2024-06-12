@@ -46,6 +46,7 @@ y_pred_lasso = lasso.predict(X_test)
 mse_ridge = mean_squared_error(y_test, y_pred_ridge)
 mse_lasso = mean_squared_error(y_test, y_pred_lasso)
 
+
 print("Ridge Regression MSE:", mse_ridge)
 print("Lasso Regression MSE:", mse_lasso)
 
