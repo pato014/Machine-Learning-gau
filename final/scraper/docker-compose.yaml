@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  app:
+    build: "."
+    container_name: "scraper"
+    ports:
+      - "45967:45967"
+    user: "${USER_ID}:${GROUP_ID}"
+    volumes:
+      - "./src:/app"
+      - "./html_files_storage:/html_files"

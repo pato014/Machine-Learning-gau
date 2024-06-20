@@ -1,0 +1,31 @@
+{
+    "listing_page": {
+        "washing-machine": "https://www.auchan.fr/electromenager-cuisine/gros-electromenager/lave-linge/ca-2903202116103",
+        "clothes-dryer": "https://www.auchan.fr/electromenager-cuisine/gros-electromenager/seche-linge/ca-202203151343",
+        "fridge": "https://www.auchan.fr/electromenager-cuisine/gros-electromenager/refrigerateur/ca-2903202116104",
+        "freezer": "https://www.auchan.fr/electromenager-cuisine/gros-electromenager/congelateur/ca-8178",
+        "dishwasher": "https://www.auchan.fr/electromenager-cuisine/gros-electromenager/lave-vaisselle/ca-8170",
+        "wine-cellar": "https://www.auchan.fr/electromenager-cuisine/gros-electromenager/cave-a-vin/ca-10092108",
+        "tv": "https://www.auchan.fr/high-tech-audio-v-telephonie/tv-videoprojecteur/televiseur/ca-4285003",
+        "bulb": "https://www.auchan.fr/jardin-auto-brico/bricolage/electricite-eclairage/eclairage-ampoule/ca-7703411",
+        "hungary": [
+            "https://online.auchan.hu/shop/elektronika/tv-audio-szorakozas/televizio.c-8357",
+            "https://online.auchan.hu/shop/elektronika/haztartasi-nagygep/huto-es-fagyaszto.c-8427?qq=%7B%22filterParams%22%3A%7B%22subcategory%22%3A%5B%228431%22%5D%7D%7D"
+        ],
+        "romania": [
+            "https://www.auchan.ro/telefoane-tablete-electronice-si-it/electronice/televizoare/c",
+            "https://www.auchan.ro/electrocasnice-si-climatizare/electrocasnice-mari/aparate-frigorifice/c"
+        ],
+        "spain": [
+            "https://www.compraonline.alcampo.es/categories/tecnolog%C3%ADa/televisores/OC651?source=navigation",
+            "https://www.compraonline.alcampo.es/categories/electrodom%C3%A9sticos/frigor%C3%ADficos/OC28?source=navigation"
+        ],
+        "portugal": [
+            "https://www.auchan.pt/pt/tecnologia-e-eletrodomesticos/eletrodomesticos/grandes-eletrodomesticos/frigorificos/",
+            "https://www.auchan.pt/pt/tecnologia-e-eletrodomesticos/tecnologia/imagem-e-som/tvs/"
+        ]
+    },
+    "product_urls": {
+        "category": []
+    }
+}
